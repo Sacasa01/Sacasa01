@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! I'm Santiago Castro Salt 👋
 
-<!--
-**Sacasa01/Sacasa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer ⚙️
 
-Here are some ideas to get you started:
+I'm focused on building robust and scalable web applications. I specialize in the **LAMP** and **MEAN/MERN** stacks, and I'm currently expanding my knowledge in **AWS** and modern **DevOps** practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am actively seeking my first professional role as a Full Stack Developer, including opportunities for an Erasmus+ internship
+---
+
+### 🚀 My Current Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | `PHP (Simfony/Laravel)` • `Node.js (Express)` • `MySQL` • `MongoDB` |
+| **Frontend** | `Angular` • `TypeScript` • `JavaScript` • `HTML/SCSS` |
+| **DevOps & Cloud** | `Linux` • `Bash Scripting` • `Docker` • `AWS` |
+
+---
+
+### 📫 Let's Connect!
+
+* **Portfolio:** [🚧Working on it🚧]
+* **LinkedIn:** [https://www.linkedin.com/in/santiago-castro-salt-ba0178316/?locale=es_ES]
+* **Email:** [santiagocsde@gmail.com]
+
+---
+###### Last Updated: November 2025
