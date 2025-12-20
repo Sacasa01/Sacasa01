@@ -9,8 +9,8 @@ Actively seeking my first professional role as a Full Stack Developer, including
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | `PHP (Simfony/Laravel)` • `Node.js (Express)` • `MySQL` • `MongoDB` |
-| **Frontend** | `Angular` • `TypeScript` • `JavaScript` • `HTML/SCSS` |
+| **Backend** | `PHP (Simfony/Laravel)` • `Node.js (Express)` • `MySQL` • `MongoDB` • `Python` |
+| **Frontend** | `Angular` • `TypeScript` • `JavaScript` • `HTML/CSS` |
 | **DevOps & Cloud** | `Linux` • `Bash Scripting` • `Docker` • `AWS` |
   
 ---
